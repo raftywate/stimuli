@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "open": "^10.1.0",
+    "zod": "^3.24.1"
+  },
+  "name": "namami_react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "index.js",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namami",
+    "react"
+  ],
+  "author": "\"Abhishek K\"",
+  "license": "ISC"
+}
