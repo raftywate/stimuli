@@ -2,14 +2,17 @@
   "dependencies": {
     "express": "^4.21.1",
     "open": "^10.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "zod": "^3.24.1"
   },
   "name": "namami_react",
   "version": "1.0.0",
   "description": "Learning React",
-  "main": "index.js",
+
   "devDependencies": {
-    "parcel": "^2.13.3"
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
   },
   "scripts": {
     "test": "jest"
@@ -20,5 +23,8 @@
     "react"
   ],
   "author": "\"Abhishek K\"",
-  "license": "ISC"
+  "license": "ISC",
+  "browserslist" : [
+    "last 2 versions"
+  ]
 }
